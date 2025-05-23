@@ -24,11 +24,7 @@ body {
 
 header {
     padding-top: 10px;
-
-
 }
-
-
 
 nav {
     position: fixed;
@@ -87,15 +83,12 @@ nav ul li a {
     font-size: 1em;
     position: relative;
     transition: all 0.5s;
-
 }
 
 nav li:hover a {
     color: #42f3b8;
     text-shadow: 0 0 10px #42f3b8, 0 0 20px #42f3b8, 0 0 30px #42f3b8, 0 0 40px #d5efe5;
 }
-
-
 
 .hamburger {
     display: none;
@@ -118,8 +111,6 @@ nav li:hover a {
     position: relative;
     background-image: url('/assets/img/Hero_BG02.png');
     background-size: cover;
-
-
 }
 
 /* .gradient-top {
@@ -420,7 +411,7 @@ nav li:hover a {
     margin: auto;
     display: block;
     position: relative;
-    background-image: url('/assets/img/contact02.png');
+    background-image: url('/assets/img/contact03.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
